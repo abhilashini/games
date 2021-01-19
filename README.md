@@ -1,7 +1,11 @@
+![License](https://img.shields.io/static/v1?label=license&message=GPLv3&color=9cf)
+![Python](https://img.shields.io/static/v1?label=python&message=v3.6.12&color=9cf)
+![Tkinter](https://img.shields.io/static/v1?label=tkinter&message=Python3.6-tk&color=9cf)
+![Platform](https://img.shields.io/static/v1?label=platform&message=linux-64|osx-64&color=9cf)
+[![Maintainer](https://img.shields.io/static/v1?label=maintainer&message=abhilashini&color=9cf)](https://github.com/abhilashini)
 # Games
 #### _Collection of games written in Python_
 
-**Games built with Python3.6 and Python3.6-tk:**
 * Snake Game
 * Pong
 * Turtle Crossing
